@@ -1,0 +1,14 @@
+let color = "green"
+
+//Traffic Light System
+if (color === "red"){
+    console.log("stop! light color is red");
+}
+
+if (color === "yellow"){
+    console.log("go slow! light color is yellow");
+}
+
+if (color === "green"){
+    console.log("go! light color is green");
+}
