@@ -1,7 +1,11 @@
 //if statement 
 console.log("before my if statement");
-let age = 23;
-    (age >= 18);{
+let age = 14;
+if (age >= 18);{
         console.log("you can vote");
     }
-console.log("before my if statement");
+if (age >= 18);{
+        console.log("you can not vote");
+    }
+console.log("after my if statement");
+
